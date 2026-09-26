@@ -307,3 +307,5 @@ console.log(
 console.log(
     "=== TUGAS MANDIRI SELESAI DENGAN SUKSES! ==="
 );
+
+// Program Sistem Poin Member Kedai Kopi selesai
